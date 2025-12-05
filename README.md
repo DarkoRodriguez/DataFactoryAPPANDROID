@@ -19,3 +19,5 @@ Para Ejecutar solo se debe Compilar e iniciar la app, se podran registrar y esto
 Login:
 Email: fe@gmail.com
 Password: Hola123$
+
+En el directorio DataFactory\app\release, se encuentra el apk de la aplicacion
