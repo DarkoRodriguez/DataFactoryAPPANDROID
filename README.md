@@ -20,4 +20,4 @@ Login:
 Email: fe@gmail.com
 Password: Hola123$
 
-En el directorio DataFactory\app\release, se encuentra el apk de la aplicacion
+En el directorio al principio se encuentra el apk de la aplicacion
