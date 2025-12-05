@@ -1,7 +1,7 @@
 Proyecto DataFactory
 Integrantes:
-Benjamin Dattoli
-Felix Omeñaca
+Benjamin Dattoli,
+Felix Omeñaca,
 Darko Rodriguez
 
 La Aplicacion tiene perfiles por parte del cliente, que esta dedicado mayoritariamente a la compra de productos, y por parte de la vista del admin, se pueden hacer operaciones de CRUD a los productos, cambiar el estado de las ordenes, ver los usuarios existentes, etc.
